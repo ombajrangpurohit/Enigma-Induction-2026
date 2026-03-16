@@ -36,6 +36,7 @@ Artificial Intelligence is transforming many industries by allowing
 machines to perform tasks that normally require human intelligence. It is
 widely used in healthcare, finance, robotics, and automation.
 """`
+
 ● `summary = summarizer(text, max_length=50, min_length=20, do_sample=False)`  
 
 ● `print(summary[0]['summary_text'])`
